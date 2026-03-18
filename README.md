@@ -32,6 +32,10 @@ No compile-time dependency on the target classes. Everything is resolved via ref
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/fd9b7639-c141-4f26-8b2b-55f8c172841d
+
+
 ## Setup
 
 ```kotlin
