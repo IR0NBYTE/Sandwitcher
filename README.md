@@ -1,13 +1,13 @@
 # Sandwitcher
 
-<p align="center">
-  <img src="assets/logo_git.png" alt="Sandwitcher" width="300" />
-</p>
-
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://developer.android.com)
 [![Min SDK](https://img.shields.io/badge/minSdk-24-blue.svg)](https://developer.android.com/about/versions/nougat)
 [![License](https://img.shields.io/badge/license-Apache%202.0-orange.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/IR0NBYTE/Sandwitcher/issues)
+
+<p align="center">
+  <img src="assets/logo_git.png" alt="Sandwitcher" width="300" />
+</p>
 
 Hook any Java/Kotlin method at runtime on Android. No root needed, no recompilation, just drop the AAR into your project.
 
