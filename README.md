@@ -212,13 +212,7 @@ app/                             demo app
 
 ## Contributing
 
-Contributions are welcome. Fork the repo, make your changes, and open a pull request.
-
-If you're fixing a bug, include a description of what was broken and how to reproduce it. If you're adding a feature, explain the use case.
-
-Keep changes focused -- one PR per fix or feature. Make sure the demo app still builds and runs before submitting.
-
-For larger changes, open an issue first to discuss the approach.
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started, submit PRs, and what to work on.
 
 ## Acknowledgements
 
